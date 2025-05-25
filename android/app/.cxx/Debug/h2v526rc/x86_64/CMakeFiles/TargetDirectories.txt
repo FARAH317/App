@@ -1,0 +1,2 @@
+C:/Users/DELL/AndroidStudioProjects/Meal_plan_app/android/app/.cxx/Debug/h2v526rc/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/DELL/AndroidStudioProjects/Meal_plan_app/android/app/.cxx/Debug/h2v526rc/x86_64/CMakeFiles/rebuild_cache.dir
